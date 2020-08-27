@@ -1,0 +1,71 @@
+@font-face {
+  font-family: roboto;
+  font-weight: 300;
+  font-style: normal;
+  src: url('../fonts/roboto-light/Roboto-Light.eot');
+  src: url('../fonts/roboto-light/Roboto-Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/roboto-light/Roboto-Light.woff') format('woff'),
+    url('../fonts/roboto-light/Roboto-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: roboto;
+  font-weight: 200;
+  font-style: italic;
+  src: url('../fonts/roboto-thin-italic/Roboto-ThinItalic.eot');
+  src: url('../fonts/roboto-thin-italic/Roboto-ThinItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/roboto-thin-italic/Roboto-ThinItalic.woff') format('woff'),
+    url('../fonts/roboto-thin-italic/Roboto-ThinItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: myriad-pro;
+  font-weight: 400;
+  font-style: normal;
+  src: url('../fonts/myriad-pro-regular/MyriadPro-Regular.eot');
+  src: url('../fonts/myriad-pro-regular/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/myriad-pro-regular/MyriadPro-Regular.woff') format('woff'),
+    url('../fonts/myriad-pro-regular/MyriadPro-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: myriad-pro;
+  font-weight: bold;
+  src: url('../fonts/myriad-pro-bold/myriadpro-bold.eot');
+  src: url('../fonts/myriad-pro-bold/myriadpro-bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/myriad-pro-bold/myriadpro-bold.woff2') format('woff2'),
+    url('../fonts/myriad-pro-bold/myriadpro-bold.woff') format('woff'),
+    url('../fonts/myriad-pro-bold/myriadpro-bold.eot.ttf') format('truetype')
+}
+@font-face {
+  font-family: aleo;
+  font-weight: 400;
+  font-style: normal;
+  src: url('../fonts/aleo-regular/Aleo-Regular.eot');
+  src: url('../fonts/aleo-regular/Aleo-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/aleo-regular/Aleo-Regular.woff') format('woff'),
+    url('../fonts/aleo-regular/Aleo-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: aleo;
+  font-weight: 300;
+  font-style: normal;
+  src: url('../fonts/aleo-light/Aleo-Light-webfont.eot');
+  src: url('../fonts/aleo-light/Aleo-Light-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/aleo-light/Aleo-Light-webfont.woff') format('woff'),
+    url('../fonts/aleo-light/Aleo-Light-webfont.ttf') format('truetype');
+}
+@font-face {
+  font-family: aleo;
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/aleo-bold/Aleo-Bold.eot');
+  src: url('../fonts/aleo-bold/Aleo-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/aleo-bold/Aleo-Bold.woff') format('woff'),
+    url('../fonts/aleo-bold/Aleo-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: abril-fatface;
+  font-weight: 300;
+  font-style: normal;
+  src: url('../fonts/abril-fatface/Abrilfatfaceregular.woff2') format('woff2'),
+    url('../fonts/abril-fatface/Abrilfatfaceregular.woff') format('woff'),
+    url('../fonts/abril-fatface/Abrilfatfaceregular.ttf') format('truetype');
+}

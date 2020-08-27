@@ -1,0 +1,38 @@
+@media only screen and (max-width:605px) {
+  .header-slide__slide-title {
+    font-size: 45px
+  }
+
+  .about-us {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+    -ms-flex-direction: column-reverse;
+    flex-direction: column-reverse
+  }
+
+  .about,
+  .about-us-title,
+  .buying-store-content,
+  .how-works-content,
+  .reviews {
+    padding-top: 50px
+  }
+
+  .about,
+  .about-us-content,
+  .buying-store,
+  .how-works,
+  .reviews {
+    padding-bottom: 50px
+  }
+
+  .apply-to-join-content {
+    padding-top: 75px;
+    padding-bottom: 75px
+  }
+
+  .image-content {
+    width: 100%;
+    height: 150px
+  }
+}

@@ -1,0 +1,31 @@
+@media only screen and (max-width: 928px) {
+  .why-use {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    width: 50%;
+    max-width: inherit;
+  }
+  .description-wrapper {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    margin: 0;
+  }
+  .about-us-content {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .apply-to-join-content {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .greed-content-wrapper-item {
+    width: calc(50% - 120px)
+  }
+  .about-us-left-image {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+  }
+}

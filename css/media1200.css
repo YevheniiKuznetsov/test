@@ -1,0 +1,12 @@
+@media only screen and (max-width: 1200px) {
+  .apply-to-join-content {
+    max-width: inherit;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  .reviews-title {
+    padding-left: 0;
+  }
+}

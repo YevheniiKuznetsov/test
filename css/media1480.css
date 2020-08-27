@@ -1,0 +1,9 @@
+@media only screen and (max-width: 1480px) {
+  .page-navigation-color {
+    position: absolute;
+    color: #ffffff;
+  }
+  .page-navigation-name-blok {
+    display: inline-block;
+  }
+}

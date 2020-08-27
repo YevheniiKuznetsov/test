@@ -1,0 +1,15 @@
+@media only screen and (max-width: 1160px) {
+  .page-navigation {
+    display: none;
+  }
+  .about-us-right-image {
+    display: none;
+  }
+  .apply-to-join-content {
+    -webkit-box-flex: 2;
+    -ms-flex: 2;
+    flex: 2;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+}
